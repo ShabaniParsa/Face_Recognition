@@ -1,0 +1,8 @@
+opencv-python
+cmake
+pyyaml
+streamlit
+face_recognition
+pandas
+pickle
+

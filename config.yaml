@@ -1,0 +1,9 @@
+
+PATH:
+  DATASET_DIR: 'dataset/'
+  PKL_PATH: 'dataset/database.pkl'
+  STUDENT_DB_PATH: 'dataset/st_db.pkl'
+
+INFO:
+  WEBCAM_PROMPT: 'You can scan your students and get data,and save it in a database.'
+  DATABASE_PROMPT: 'Here we have informations about your students.'
